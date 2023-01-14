@@ -1,0 +1,35 @@
+.body{
+    width: 595px;
+    height: 842px;
+    background-color: white;
+    margin: auto;
+}
+.gauche{
+    width: 160px;
+    height: 842px;
+    background-color: rgb(45, 151, 86);
+}
+.img img{
+    width: 90px;
+    height: 90px;
+    margin-left: 10px;
+    padding-top: -15px;
+}
+.info{
+    font-size: 9px;
+}
+.prenom{
+    font-size: 14px;
+    font-weight:bold;
+}
+.tx{
+    font-size: 12px;
+}
+.droite{
+    width: 445px;
+    text-align: justify;
+    margin-top: -860px;
+    padding-top: -50px;
+    margin-left: 185px;
+
+}
